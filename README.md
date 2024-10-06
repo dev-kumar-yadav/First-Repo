@@ -1,4 +1,4 @@
 # First-Repo
 this is my first Git Repository
 <br>
-Author - Dev kumar
+Author - Dev kumar Yadav
